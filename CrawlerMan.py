@@ -1,5 +1,5 @@
 # Manga Web Scraper CLI for different Sources
-# Created by Alexander Zejnalov 26.09.2020
+# Created by C0nvert 26.09.2020
 
 import os
 import sys
