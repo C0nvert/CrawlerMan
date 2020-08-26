@@ -23,4 +23,6 @@ Choose from `onepiece, boruto, snk, snkcol, dnk`
 `-h` Show help menu
 
 ## Example
+```
 python ./MultiCrawlerFinal.py -min 200 -max 246 -name onepiece
+```
