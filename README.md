@@ -26,3 +26,7 @@ Choose from `onepiece, boruto, snk, snkcol, dnk`
 ```
 python ./MultiCrawlerFinal.py -min 200 -max 246 -name onepiece
 ```
+This will download the Chapter 200-246 from One Piece to your current Directory.
+
+## Disclaimer
+This Programm is only for educational purpose.
